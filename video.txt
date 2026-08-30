@@ -1,0 +1,33 @@
+This isn't just a CRUD app—it’s the pulse of a local sports community. Google-style tech ads don't sell features; they sell **human moments enabled by seamless software**. The rhythm should alternate between **high-speed digital cuts** and **kinetic real-world sound design** (squeaking sneakers, ball bounces, racket impacts).
+
+Here is a 60-second video script and pacing guide built specifically for your app:
+
+---
+
+### **Video Concept: "Every Point Counts"**
+
+**Style:** Minimalist typography, snappy Framer Motion-style match cuts, kinetic typography, crisp UI close-ups, sound-driven pacing.
+
+**Visual & Audio Flow**
+
+| Time | Visual / Screen Action | Sound Design / Audio | On-Screen Text / Voiceover |
+| --- | --- | --- | --- |
+| **0:00 - 0:08** | **Real-World Hook:** Fast-paced POV shots of a court match (serve, volley, winning hit). Transition instantly into a sleek map pin snapping onto **Public Courts View**. | High-energy rubber shoe squeak, quick racket *THWACK*, sharp UI snap sound. | *VO:* "Every game has a court..." |
+| **0:08 - 0:18** | **Discover & Locate:** Cursor slides seamlessly across the **Public Courts View** map. A court item expands into the detail drawer revealing recorded matches. | Soft ambient bass layer drops in. Gentle UI click feedback. | *VO:* "...and every court tells a story." |
+| **0:18 - 0:28** | **The Pulse (Matches):** Rapid macro shots of the **Public Matches View**. Scores tick up smoothly, win badges pop, and avatars slide into place with Framer Motion ease. | Dynamic score "ticking" sound effect, quick digital whip-pans. | *VO:* "Track the rivalries, the comebacks, and the decisive sets." |
+| **0:28 - 0:38** | **The Stakes (Leaderboards):** Seamless tab-switch animation between **Singles** and **Doubles**. The #01 leader spotlight shines, showing live Elo ratings adjusting. | Resonant low-end swell. *Ding!* as rank #01 highlights. | *Text on Screen:* **RANK IS EARNED.** <br>
+
+<br>*VO:* "Where win rates translate into pure rating." |
+| **0:38 - 0:48** | **The Player View:** Transition into **Public Player Profile**. Stats counters roll up instantly: *18W - 4L*, *81.8% WR*. Scroll through match history tags (*WIN / LOSS*). | Fast kinetic ticking sound as numbers count up. | *VO:* "Your complete court legacy, quantified." |
+| **0:48 - 0:54** | **Behind the Scenes (Admin):** Quick dark-mode glitch cut into **Admin Dashboard**. A match is validated and submitted in two quick clicks; the system updates instantly. | Crisp keyboard mechanical keystroke sound, swift slide transition. | *VO:* "Effortless administration behind every serve." |
+| **0:54 - 1:00** | **Closing:** Zoom out to the sleek **Home Page** hero layout. The full UI centers on screen with clean minimalist backdrop lines. | Music swells to a crisp, punchy stop on the final frame. | *Logo Reveals on Screen:* **DUGGO** <br>
+
+<br>*Tagline:* *Serve. Track. Dominate.* |
+
+---
+
+### **Editing & Production Tips for Recording**
+
+* **Cursor Smoothness:** Use screen recording tools like *Screen Studio* or *Rotato* to add smooth 3D tilt, springy zoom-ins, and automatic cursor smoothing over your React components.
+* **Sound Design is 70% of the Effect:** Do not rely only on background music. Layer real sports sound effects (ball drops, tennis/pickleball hits) right as UI elements animate or switch tabs.
+* **Highlight the Framer Motion:** Emphasize your active tab spring animations, layout transitions, and card hovers with deliberate micro-zooms.
